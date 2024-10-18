@@ -1,0 +1,6 @@
+
+train:  C:\Users\alenk\OneDrive\Documents\tomato\dataset_2\images\train\images
+val: C:\Users\alenk\OneDrive\Documents\tomato\dataset_2\images\test\images
+
+nc: 3  # number of classes
+names: ['healthy', 'unripe', 'reject']  # class names
